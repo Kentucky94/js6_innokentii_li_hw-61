@@ -1,5 +1,21 @@
 .App {
   text-align: center;
+  display: flex;
+  justify-content: space-around;
+  padding: 30px 0;
+}
+
+.countries-list{
+  border: 1px solid black;
+  height: 80vh;
+  width: 25%;
+  overflow: hidden;
+  overflow-y: scroll;
+}
+
+.countries-data{
+  border: 1px solid black;
+  width: 70%;
 }
 
 .App-logo {

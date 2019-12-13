@@ -1,0 +1,8 @@
+.CountryListItem {
+  padding: 10px;
+}
+
+.CountryListItem:hover {
+  cursor: pointer;
+  text-decoration: underline;
+}

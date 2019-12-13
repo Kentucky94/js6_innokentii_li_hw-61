@@ -1,0 +1,17 @@
+.CountryDataContainer{
+  padding: 30px;
+}
+
+b{
+  text-transform: capitalize;
+}
+
+.data{
+  float: left;
+  text-align: left;
+}
+
+.flag{
+  float: right;
+  width: 300px;
+}
